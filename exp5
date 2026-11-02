@@ -1,0 +1,7 @@
+#!/bin/bash
+if [-f"$1"]; then 
+echo "$1 is a file"
+elif [-d"$"]; then 
+echo "$ is a dictionary"
+else:
+  echo"$1 does not exist"
